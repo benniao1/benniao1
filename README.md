@@ -5,12 +5,10 @@
 
 I'm a passionate software developer with experience in full-stack development, specializing in Python, JavaScript, and modern web technologies. I love building efficient, scalable applications and contributing to open-source projects.
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Language]
-- 👯 I’m looking to collaborate on [Open Source Project/Interesting Projects]
-- 💬 Ask me about [Topics you're interested in]
+- 🔭 I’m currently working on [Fish behavior detection]
+- 🌱 I’m currently learning [C++]
 - 📫 How to reach me: [2359942348@qq.com]
-- ⚡ Fun fact: [A fun fact about you]
+
 
 ## 🛠️ My Skills
 
